@@ -1,0 +1,55 @@
+body{
+    background-image: url('../assets/images/ShiningCarpet.jpg');
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: aliceblue;
+}
+
+.banner{
+    color: aliceblue;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: teal;
+    display: inline-block;
+}
+
+.instructions{
+    background-color: black;
+    display: inline-block;
+}
+
+.thirdRow{
+    display: flex;
+}
+.matchingNumber{
+    padding: 50px;
+    background-color: blue;
+    margin-right: 15px;
+}
+
+.wins_losses{
+    padding: 50px;
+    background-color: green;
+    margin-left: 15px;
+}
+
+ .gems{
+     display: flex;
+ }
+
+ .gems img{
+     margin: 10px;
+ }
+
+ .yourScoreIs{
+     background-color: indigo;
+    height: 30px;
+    width: 200px;
+ }
+
+ .currentScore{
+     background-color: indigo;
+     height: 200px;
+     width: 200px;
+ }
